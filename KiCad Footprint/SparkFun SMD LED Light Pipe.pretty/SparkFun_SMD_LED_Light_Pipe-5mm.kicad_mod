@@ -1,9 +1,9 @@
-(footprint "SMD-CBI-5mm"
+(footprint "SparkFun_SMD_LED_Light_Pipe-5mm"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(tags "SparkFun SMD 5mm Light Pipe Circuit Board Indicator")
+	(tags "SparkFun SMD LED 5mm Light Pipe Circuit Board Indicator CBI")
 	(property "Reference" "REF**"
 		(at 0 -4.7 0)
 		(unlocked yes)
@@ -43,16 +43,16 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
-		(at 0 0 0)
+	(property "Datasheet" "https://www.sparkfun.com/products/25893"
+		(at 0 5.715 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
 		(uuid "8a32694f-1bfe-41a1-95b2-140b88009b75")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.5 0.5)
+				(thickness 0.1)
 			)
 		)
 	)
