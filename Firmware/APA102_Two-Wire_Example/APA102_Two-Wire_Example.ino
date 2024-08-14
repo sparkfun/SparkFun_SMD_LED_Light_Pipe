@@ -1,5 +1,5 @@
 /*
-  Lighting up APA102-2020 2mm addressable LEDs
+  Lighting up a few APA102-2020 2mm two-pin addressable LEDs
   By: Nathan Seidle
   SparkFun Electronics
   Date: August 14, 2024
@@ -13,7 +13,7 @@
   SMD LED - RGB APA102-2020 (Pack of 10) (COM-14608) https://www.sparkfun.com/products/14608
 */
 
-#include <FastLED.h>  //Click here to get the library: http://librarymanager/All#FastLED_multi-platform by Daniel Garcia
+#include <FastLED.h> //Click here to get the library: http://librarymanager/All#FastLED_multi-platform by Daniel Garcia
 
 #define DATA_PIN 9
 #define CLOCK_PIN 8
